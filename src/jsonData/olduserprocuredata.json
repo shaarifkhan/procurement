@@ -1,0 +1,458 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Chung Fa.jpg",
+    "label": "Chung Fa"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Spice Caves.jpg",
+    "label": "Spice Caves"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Baati Chokha.jpg",
+    "label": "Baati Chokha"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Jail Road Canteen.jpg",
+    "label": "Jail Road Canteen"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/The Leaf.jpg",
+    "label": "The Leaf"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Coffee Culture.jpg",
+    "label": "Coffee Culture"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Burger Bistro.jpg",
+    "label": "Burger Bistro"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Hashtag Cafe.jpg",
+    "label": "HashTag Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Legends Cafe.jpg",
+    "label": "Legends Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Sagar Ratna.jpg",
+    "label": "Sagar Ratna"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Eiffel Cafe.jpg",
+    "label": "Eiffel Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Mocha Cafe.jpg",
+    "label": "Mocha Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/B2C.jpg",
+    "label": "B2C"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Others.jpg",
+    "label": "Others - Collection"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Others.jpg",
+    "label": "Others - Payment"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Petrol.jpg",
+    "label": "Petrol"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Procurement.jpg",
+    "label": "Procurement"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Loan.jpg",
+    "label": "Loan"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Advance Payment.jpg",
+    "label": "Advance Payment"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Office Inventory.jpg",
+    "label": "Office Inventory"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Daala Payment.jpg",
+    "label": "Daala Payment"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Sales Expenses.jpg",
+    "label": "Sales Expenses"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Operational Expenses.jpg",
+    "label": "Operational Expenses"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Burger Beans"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "The Secret Factory"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Wok To Remember"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Kwality Caterers"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Coffee Kopcha"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Free Spirit Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Arif Castle"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Manish Eating Point"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Golden Restaurant"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Ritz"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Cellar"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Aryans"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Rollarappa"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Rangla Punjab"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Alladin Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Chemistry Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Bahubelly"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Coffee Couture"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Sethus"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Lucknawi"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Twisted"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Dera"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Sandys"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Destination Lucknow"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Cafe GST"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Gunank"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Madrasi Dosa"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Jail Cave"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Carribean Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Tamasha"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Be the Beer"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Radiance Restaurant"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Pizza dine gomti nagar"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Pizza dine Kapurthala"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Pind Baluchi"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Noodle station"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Yo dhaba"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Italian delight"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Rasoi"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Club Momentz"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Hotel Charans Plaza"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Moti Mahal"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Royal Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Fusion Flavour"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Buddha Residency"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Essence Grandeur"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "The Penthouse Café"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Pack N Chew"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Packing Shacking"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Barcelos"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Vaangos"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "SubVeg"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Roti Boti"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Homey's Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Kalika Restaurant"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Badman and Cobbin"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Grand JBR"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Pepperz"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Ramala"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Mountain Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Playmaxx"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Punjabi Thhaat"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Lively Restaurant"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Lucknow Darbar"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Food of Indians"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Catering Order - BH"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Catering Order - MN"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Catering Order - SC"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Catering Order - KLS"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Chawlas 2"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Office Inventory.jpg",
+    "label": "Attendance - Arun"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Office Inventory.jpg",
+    "label": "Attendance - Rahul"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Office Inventory.jpg",
+    "label": "Attendance - Shubham"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Office Inventory.jpg",
+    "label": "Attendance - Daala"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Office Inventory.jpg",
+    "label": "Attendance - Anas"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Daala Payment.jpg",
+    "label": "Daala KMS"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Operational Expenses.jpg",
+    "label": "Running Cashflow"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Operational Expenses.jpg",
+    "label": "Reserve Cashflow"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Operational Expenses.jpg",
+    "label": "Investment by Praveen"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Operational Expenses.jpg",
+    "label": "Investment by Prabhat"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Operational Expenses.jpg",
+    "label": "SBI Bank Withdrawal"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Satkar Restaurant"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Cafe Unplugged"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Masala Guru"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Shree Rajbhog"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Open Air Restaurant"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Pebbles"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Vintage Bliss Cafe"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Shangrila Bar"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Hungry Resto"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/images/Customer.jpg",
+    "label": "Food Haat"
+  }
+]

@@ -80,7 +80,7 @@ export default class MainScreen extends Component {
 
   getUserSpecificData() {
     fetch(
-      "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/jsonData/userprocuredata%20.json"
+      "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/jsonData/userprocuredata.json"
     )
       .then((response) => response.json())
       .then((data) => {
