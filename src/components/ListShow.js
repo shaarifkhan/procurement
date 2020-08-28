@@ -114,7 +114,7 @@ export default class DynamicList extends Component {
   }
   getUserLevelData(userID) {
     fetch(
-      "https://rawgit.com/classicyamaha/mbooksdata/master/userAuthLevel.json"
+      "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/jsonData/userAuthLevel.json"
     )
       .then((response) => response.json())
       .then((data) => {

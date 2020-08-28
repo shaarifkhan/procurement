@@ -74,7 +74,7 @@ export default class Order extends Component {
   }
   getUserLevelData(userID) {
     fetch(
-      "https://rawgit.com/classicyamaha/mbooksdata/master/userAuthLevel.json"
+      "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/jsonData/userAuthLevel.json"
     )
       .then((response) => response.json())
       .then((data) => {
@@ -87,7 +87,7 @@ export default class Order extends Component {
 
   getUserSpecificData() {
     fetch(
-      "https://rawgit.com/classicyamaha/mbooksdata/master/userprocuredata.json"
+      "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/jsonData/userprocuredata.json"
     )
       .then((response) => response.json())
       .then((data) => {
@@ -96,7 +96,7 @@ export default class Order extends Component {
   }
   getData() {
     fetch(
-      "https://rawgit.com/classicyamaha/mbooksdata/master/userprocuredata%20.json"
+      "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/jsonData/userprocuredata%20.json"
     )
       .then((response) => response.json())
       .then((data) => {
@@ -105,7 +105,7 @@ export default class Order extends Component {
   }
   getCommentsData() {
     fetch(
-      "https://rawgit.com/classicyamaha/mbooksdata/master/commentsData.json"
+      "https://raw.githubusercontent.com/shaarifkhan/procurement/master/src/jsonData/commentsData.json"
     )
       .then((response) => response.json())
       .then((data) => {
