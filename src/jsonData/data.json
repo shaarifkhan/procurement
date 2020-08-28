@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "resto_name": "Glenn",
+	"favorite":true,
+	"foodTruck":true,
+    "mobile": true,
+    "cuisine": "Chinese, Fast Food",
+    "status": "open",
+    "time": "5:46 PM",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg"
+  }, {
+    "id": 2,
+    "resto_name": "Carl",
+    "mobile": false,
+	"favorite":true,
+	"foodTruck":false,
+    "cuisine": "Chinese, Fast Food",
+    "status": "closed",
+    "time": "09:38 PM",
+    "image": "https://randomuser.me/api/portraits/women/37.jpg"
+  }, {
+    "id": 3,
+    "resto_name": "Rick",
+    "mobile": true,
+	"favorite":false,
+	"foodTruck":true,
+    "cuisine": "Chinese, Fast Food",
+    "status": "closed",
+    "time": "1:33 PM",
+    "image": "https://randomuser.me/api/portraits/women/13.jpg"
+  }, {
+    "id": 4,
+    "resto_name": "Maggie",
+    "mobile": false,
+	"favorite":false,
+	"foodTruck":false,
+    "cuisine": "Chinese, Fast Food",
+    "status": "open",
+    "time": "02:59 AM",
+    "image": "https://randomuser.me/api/portraits/men/5.jpg"
+  }, {
+    "id": 5,
+    "resto_name": "Michael",
+    "mobile": true,
+	"favorite":false,
+	"foodTruck":false,
+    "cuisine": "Chinese, Fast Food",
+    "status": "open",
+    "time": "9:17 AM",
+    "image": "https://randomuser.me/api/portraits/men/19.jpg"
+  }, {
+    "id": 6,
+    "resto_name": "Jesus",
+    "mobile": false,
+	"favorite":false,
+	"foodTruck":false,
+    "cuisine": "Chinese, Fast Food",
+    "status": "open",
+    "time": "10:37 PM",
+    "image": "https://randomuser.me/api/portraits/men/18.jpg"
+  }, {
+    "id": 7,
+    "resto_name": "Daryn",
+    "mobile": true,
+	"favorite":false,
+	"foodTruck":false,
+    "cuisine": "Chinese, Fast Food",
+    "status": "open",
+    "time": "07:32 AM",
+    "image": "https://randomuser.me/api/portraits/men/30.jpg"
+  }, {
+    "id": 8,
+    "resto_name": "Fred",
+    "mobile": false,
+	"favorite":false,
+	"foodTruck":false,
+    "cuisine": "Chinese, Fast Food",
+    "status": "open",
+    "time": "12:56 AM",
+    "image": "https://randomuser.me/api/portraits/women/10.jpg"
+  }, {
+    "id": 9,
+    "resto_name": "James",
+    "mobile": false,
+	"favorite":false,
+	"foodTruck":false,
+    "cuisine": "Chinese, Fast Food",
+    "status": "open",
+    "time": "9:29 PM",
+    "image": "https://randomuser.me/api/portraits/women/6.jpg"
+  }, {
+    "id": 10,
+    "resto_name": "Matthew",
+    "mobile": true,
+	"favorite":false,
+	"foodTruck":false,
+    "cuisine": "Chinese, Fast Foods",
+    "status": "open",
+    "time": "7:43 PM",
+    "image": "https://randomuser.me/api/portraits/men/18.jpg"
+  }]

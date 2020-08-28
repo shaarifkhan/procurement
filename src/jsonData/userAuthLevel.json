@@ -1,0 +1,7 @@
+[{
+    "email":"tester@test.com",
+    "auth":"admin"
+  },{
+    "email":"tester2@test.com",
+    "auth":"operator"
+  }]

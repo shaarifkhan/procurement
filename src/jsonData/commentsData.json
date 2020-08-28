@@ -1,0 +1,286 @@
+[{
+  "value":"0",
+  "item":"Choose from List.."
+  },{
+    "value":"CF",
+    "item":"Chung Fa"
+  },{
+    "value":"SC",
+    "item":"Spice Caves"
+  },{
+    "value":"BC",
+    "item":"Baati Chokha"
+  },{
+    "value":"JRC",
+    "item":"Jail Road Canteen"
+  },{
+    "value":"BBS",
+    "item":"Burger Beans"
+  },{
+    "value":"FSC",
+    "item":"Free Spirit Cafe"
+  },{
+    "value":"KC",
+    "item":"Kwality Caterers"
+  },{
+    "value":"CK",
+    "item":"Coffee Kopcha"
+  },{
+    "value":"TL",
+    "item":"The Leaf"
+  },{
+    "value":"CC",
+    "item":"Coffee Culture"
+  },{
+    "value":"BBO",
+    "item":"Burger Bistro"
+  },{
+    "value":"TSF",
+    "item":"The Secret Factory"
+  },{
+    "value":"WTR",
+    "item":"Wok To Remember"
+  },{
+    "value":"HT",
+    "item":"HashTag Cafe"
+  }, {
+    "value":"LC",
+    "item":"Legends Cafe"
+  },{
+    "value":"SR",
+    "item":"Sagar Ratna"
+  },{
+    "value":"EC",
+    "item":"Eiffel Cafe"
+  },{
+    "value":"MOC",
+    "item":"Mocha Cafe"
+  },{
+    "value":"B2C",
+    "item":"B2C"
+  },{
+    "value":"Other",
+    "item":"Others"
+  },{
+    "value":"AC",
+    "item":"Arif Castle"
+  },{
+    "value":"MEP",
+    "item":"Manish Eating Point"
+  },{
+    "value":"GR",
+    "item":"Golden Restaurant"
+  },{
+    "value":"RZ",
+    "item":"Ritz"
+  },{
+    "value":"CR",
+    "item":"Cellar"
+  },{
+    "value":"AS",
+    "item":"Aryans"
+  },{
+    "value":"RR",
+    "item":"Rollarappa"
+  },{
+    "value":"RP",
+    "item":"Rangla Punjab"
+  },{
+    "value":"ALD",
+    "item":"Alladin Cafe"
+  },{
+    "value":"CHEM",
+    "item":"Chemistry Cafe"
+  },{
+    "value":"BAH",
+    "item":"Bahubelly"
+  },{
+    "value":"COU",
+    "item":"Coffee Couture"
+  },{
+    "value":"SETH",
+    "item":"Sethus"
+  },{
+    "value":"LNW",
+    "item":"Lucknawi"
+  },{
+    "value":"TWD",
+    "item":"Twisted"
+  },{
+    "value":"DER",
+    "item":"Dera"
+  },{
+    "value":"SYS",
+    "item":"Sandys"
+  },{
+    "value":"DL",
+    "item":"Destination Lucknow"
+  },{
+    "value":"GST",
+    "item":"Cafe GST"
+  },{
+    "value":"GUN",
+    "item":"Gunank"
+  },{
+    "value":"MDA",
+    "item":"Madrasi Dosa"
+  },{
+    "value":"JCV",
+    "item":"Jail Cave"
+  },{
+    "value":"CBC",
+    "item":"Carribean Cafe"
+  },{
+    "value":"TAM",
+    "item":"Tamasha"
+  },{
+    "value":"BTB",
+    "item":"Be the Beer"
+  },{
+    "value":"RAD",
+    "item":"Radiance Restaurant"
+  },{
+    "value":"PDG",
+    "item":"Pizza Dine Gomti Nagar"
+  },{
+    "value":"PDK",
+    "item":"Pizza Dine Kapoorthala"
+  },{
+    "value":"PIND",
+    "item":"Pind Baluchi"
+  },{
+    "value":"NSN",
+    "item":"Noodle station"
+  },{
+    "value":"DHA",
+    "item":"Yo dhaba"
+  },{
+    "value":"ITA",
+    "item":"Italian delight"
+  },{
+    "value":"RAS",
+    "item":"Rasoi"
+  },{
+    "value":"MOM",
+    "item":"Club Momentz"
+  },{
+    "value":"CHA",
+    "item":"Hotel Charans Plaza"
+  },{
+    "value":"MOT",
+    "item":"Moti Mahal"
+  },{
+    "value":"ROY",
+    "item":"Royal Cafe"
+  },{
+    "value":"FF",
+    "item":"Fusion Flavour"
+  },{
+    "value":"BUD",
+    "item":"Buddha Residency"
+  },{
+    "value":"EGD",
+    "item":"Essence Grandeur"
+  },{
+    "value":"TPC",
+    "item":"The Penthouse Café"
+  },{
+    "value":"PNC",
+    "item":"Pack N Chew"
+  },{
+    "value":"SHA",
+    "item":"Packing Shacking"
+  },{
+    "value":"BCS",
+    "item":"Barcelos"
+  },{
+    "value":"VAA",
+    "item":"Vaangos"
+  },{
+    "value":"SUBV",
+    "item":"SubVeg"
+  },{
+    "value":"ROBO",
+    "item":"Roti Boti"
+  },{
+    "value":"HOCA",
+    "item":"Homey's Cafe"
+  },{
+    "value":"KAL",
+    "item":"Kalika Restaurant"
+  },{
+    "value":"BAC",
+    "item":"Badman and Cobbin"
+  },{
+    "value":"JBR",
+    "item":"Grand JBR"
+  },{
+    "value":"PEP",
+    "item":"Pepperz"
+  },{
+    "value":"RAM",
+    "item":"Ramala"
+  },{
+    "value":"MOU",
+    "item":"Mountain Cafe"
+  },{
+    "value":"PLX",
+    "item":"Playmaxx"
+  },{
+    "value":"PTH",
+    "item":"Punjabi Thhaat"
+  },{
+    "value":"LIR",
+    "item":"Lively Restaurant"
+  },{
+    "value":"LDB",
+    "item":"Lucknow Darbar"
+  },{
+    "value":"FOI",
+    "item":"Food of Indians"
+  },{
+    "value":"COBH",
+    "item":"Catering Order - BH"
+  },{
+    "value":"COMN",
+    "item":"Catering Order - MN"
+  },{
+    "value":"COSC",
+    "item":"Catering Order - SC"
+  },{
+    "value":"COKLS",
+    "item":"Catering Order - KLS"
+  },{
+    "value":"CWL2",
+    "item":"Chawlas 2"
+  },{
+    "value":"STKR",
+    "item":"Satkar Restaurant"
+  },{
+    "value":"CUNG",
+    "item":"Cafe Unplugged"
+  },{
+    "value":"MAGU",
+    "item":"Masala Guru"
+  },{
+    "value":"RBOG",
+    "item":"Shree Rajbhog"
+  },{
+    "value":"OPAI",
+    "item":"Open Air Restaurant"
+  },{
+    "value":"PEBB",
+    "item":"Pebbles"
+  },{
+    "value":"VIBC",
+    "item":"Vintage Bliss Cafe"
+  },{
+    "value":"SHBR",
+    "item":"Shangrila Bar"
+  },{
+    "value":"HUNR",
+    "item":"Hungry Resto"
+  },{
+    "value":"FOHT",
+    "item":"Food Haat"
+  }]
