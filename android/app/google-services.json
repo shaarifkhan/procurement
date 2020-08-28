@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1065488977040",
+    "firebase_url": "https://procure-b3770.firebaseio.com",
+    "project_id": "procure-b3770",
+    "storage_bucket": "procure-b3770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065488977040:android:2cd1583c2c5a4319",
+        "android_client_info": {
+          "package_name": "com.procurement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065488977040-ha2vb5un8q8lqu6ur44pg1vilci4iot4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBplv4U67837Yn1-_r-eG7OEKu8Yj7QT54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
